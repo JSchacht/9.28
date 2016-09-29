@@ -1,0 +1,58 @@
+---
+title: "Effectively Communicating Numbers Summary"
+author: "Josh Schacht"
+date: "September 28, 2016"
+output:
+  pdf_document:
+    fig_caption: yes
+    fig_crop: yes
+    fig_height: 6
+    fig_width: 7
+    highlight: tango
+    number_sections: yes
+    toc: yes
+    toc_depth: 3
+  html_document:
+    toc: yes
+  word_document: default
+abstract: The objective of this document is to summarize the principles of crafting
+  graphs that are presented in  Effectively Communicating Numbers - Selecting the
+  Best Means and Manner of Display.
+---
+	This article begins by introducing the reader to the concept that, in general, graphs are 
+	made incorrectly and misleadingly by those who do not understand graphic principles. The 
+	purpose of the article, therefore, is to inform those in the fields of business and 
+	technology on the proper techniques for crafting graphs.
+	
+	The first important differentiation that is made focuses on tables versus graphs. Often times 
+	a table can represent data more efficiently then a graph ever could. In these cases, rather 
+	than trying to impress with graphs, one should always default to a table. Within the 
+	graphical realm, there exist three types of categorical scales. These scales, nominal, 
+	ordinal, and interval, describe the data represented by each scale. Nominal scales have no 
+	intrinsic comparative order, ordinal scales are ordered but not numeric, and interval are 
+	focused completely on numbers.
+	
+ 	The article proceeds by describing the seven common relationships that can be found in 
+ 	quantitative business data. The first, time-series relationships, use time as a key metric. 
+ 	These relationships represent roughly 75% of business graphs; a statistic which stresses 
+ 	their importance. The next relationship, ranking relationships, are any which compare and 
+ 	sequence values from large to small. Part-to-whole are those which represent the percentage 
+ 	each value plays in a larger whole. Deviation relationships include the differences of values 
+ 	in reference to some set of values. Distribution relationships show the density of data 
+ 	values at various points on one of the quantitative metrics. Correlations show the 
+ 	relationships between fundamentally different values. Lastly, the nominal comparison 
+ 	relationship shows relative quantitative values as they correspond to qualitative categories.
+ 	
+	The article continues to explain the various means by which of encoding quantitative data: 
+	the marks that most properly communicate the information. Examples of these marks are points, 
+	lines, bars, and boxes. Each serves a different purpose and offer strengths depending on the 
+	data. With this information, one can design their graph properly by determining their message
+	and identifying their data. This includes specifying the value of a graph over a table, of 
+	deciding which relationship is most clearly relevant, and designing the aesthetics of the 
+	grass.
+	
+	The aesthetics of a graph include the determination of what pieces are necessary for the 
+	quality of the graph. A legend or axis values, for example, need only be strategically 
+	designed if they add unique information to the graph in the first place. Even certain data
+	values can often be removed from a graph without losing crucial data.
+
